@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"054ecb52df3d41ed","x":-280,"y":-200,"width":250,"height":60,"type":"text","text":""},
-		{"id":"3baa20013bcf9653","x":-155,"y":-80,"width":400,"height":400,"type":"file","file":"AWS Cloud Practitioner/Laboratórios/4. Webserver Wordpress (all + Route-53).md"},
-		{"id":"6584879d6c1c5dea","x":-340,"y":400,"width":400,"height":161,"type":"file","file":"Imagens/Pasted image 20220728080518.png"}
-	],
-	"edges":[]
-}

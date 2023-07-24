@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "5eb88385773fdf40",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ca58e97c778365c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98cd3386a92cd58c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Practitioner/Laboratórios/4. Webserver Wordpress (all + Route-53).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "804ef9e571ed7d02",
+    "type": "split",
+    "children": [
+      {
+        "id": "7689661d178f1b15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20d8987a5b1f3336",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ded1185d965af2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4bdd6543a0cc478b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7eb7a7f9ab5a898",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbddc1bc871e8782",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7961c29bbd6dc7a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45fc0eef8dbcc7f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10ad9fa5eef371b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "32963f41970d3ae3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "20d8987a5b1f3336",
+  "lastOpenFiles": [
+    "AWS Cloud Practitioner/Laboratórios/4. Webserver Wordpress (all + Route-53).md",
+    "AWS Cloud Practitioner/Laboratórios/3. Webserver Wordpress (all + AutoScalling).md",
+    "AWS Cloud Practitioner/Laboratórios/2. Webserver Wordpress  (all +RDS).md",
+    "AWS Certified Devops Engineer/Laboratórios.md",
+    "Youtube/[TF Up and Running].md",
+    "AWS Certified Devops Engineer",
+    "Sem título.canvas",
+    "Youtube/Ideias de Vídeos.md",
+    "Youtube",
+    "Sem título 1.canvas",
+    "AWS Cloud Practitioner/Laboratórios/1. Webserver Apache simples (EC2 + SG + ALB).md"
+  ]
+}
