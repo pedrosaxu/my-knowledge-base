@@ -1,0 +1,2 @@
+- [Como externalizar uma variável a partir de um script no Azure Devops para os demais jobs/tasks](https://learn.microsoft.com/pt-br/azure/devops/pipelines/process/set-variables-scripts?view=azure-devops&tabs=bash)
+- [Como colorir o output de log do Azure Devops](https://medium.com/objectsharp/adding-colour-to-azure-pipeline-logs-3d28949bf118)
