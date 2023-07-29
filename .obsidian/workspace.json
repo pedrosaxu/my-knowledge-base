@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2ca58e97c778365c",
+        "id": "9e832396d952c3df",
         "type": "tabs",
         "children": [
           {
-            "id": "98cd3386a92cd58c",
+            "id": "6ffa110d2fc18d85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner/Laboratórios/4. Webserver Wordpress (all + Route-53).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 344.5
   },
   "right": {
     "id": "b7eb7a7f9ab5a898",
@@ -144,13 +140,20 @@
   },
   "active": "20d8987a5b1f3336",
   "lastOpenFiles": [
+    "git status.md",
+    "2023-07-29.md",
+    "Sem título.canvas",
+    "AWS Certified Devops Engineer/Laboratórios.md",
+    "Tech how-tos/Database/2. Como fazer restore do Banco de Dados MySQL.md",
+    "Tech how-tos/Database/1. Testar conexão om banco MySQL.md",
+    "Tech how-tos/Wordpress/1. Como configurar Wordpress com Apache no Ubuntu.md",
+    "Tech how-tos/Linux/8. Habilitar SSL no Apache.md",
+    "Youtube/Test file.md",
     "AWS Cloud Practitioner/Laboratórios/4. Webserver Wordpress (all + Route-53).md",
     "AWS Cloud Practitioner/Laboratórios/3. Webserver Wordpress (all + AutoScalling).md",
     "AWS Cloud Practitioner/Laboratórios/2. Webserver Wordpress  (all +RDS).md",
-    "AWS Certified Devops Engineer/Laboratórios.md",
     "Youtube/[TF Up and Running].md",
     "AWS Certified Devops Engineer",
-    "Sem título.canvas",
     "Youtube/Ideias de Vídeos.md",
     "Youtube",
     "Sem título 1.canvas",
