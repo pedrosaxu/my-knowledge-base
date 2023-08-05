@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f84c1fc11f49b1a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Certified Devops Engineer/D1: SDLC Automation - Lab Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7cc993ee8f4ce6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech how-tos/AWS/3. Validar log do script do User Data.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech how-tos/AWS/3. Validar log do script do User Data.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech how-tos/AWS/3. Validar log do script do User Data.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,10 +171,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6ffa110d2fc18d85",
+  "active": "a7cc993ee8f4ce6d",
   "lastOpenFiles": [
-    "Tech how-tos/AWS/2. Validar log do CodeDeploy dentro da máquina.md",
+    "AWS Certified Devops Engineer/D1: SDLC Automation - Lab Ideas.md",
+    "conflict-files-obsidian-git.md",
     "Tech how-tos/AWS/3. Validar log do script do User Data.md",
+    "Tech how-tos/Git/5. Como reverter um commit.md",
+    "Tech how-tos/AWS/2. Validar log do CodeDeploy dentro da máquina.md",
     "Tech how-tos/AWS/1. Como instalar o agente do CodeDeploy em EC2.md",
     "Tech how-tos/Wordpress/1. Como configurar Wordpress com Apache no Ubuntu.md",
     "Tech how-tos/Azure Devops/10. Ver log do agente do Azure Devops.md",
@@ -161,7 +189,6 @@
     "Tech how-tos/Azure Devops/9. Como desinstalar self-hosted agend nas máquinas.md",
     "Tech how-tos/Azure Devops/8. Como colorir AZDevops output.md",
     "Tech how-tos/Azure Devops/7. Range de IP's dos Agentes Devops da Microsoft - Brasil.md",
-    "AWS Certified Devops Engineer/D1: SDLC Automation - Lab Ideas.md",
     "2023-07-29.md",
     "Tech how-tos/Database/2. Realizar restore de banco SQL.md",
     "Tech how-tos/Database/1. Testar conexão com banco MySQL.md",
@@ -173,8 +200,6 @@
     "Tech how-tos/Linux/8. Habilitar SSL no Apache.md",
     "Youtube/Test file.md",
     "AWS Cloud Practitioner/Laboratórios/4. Webserver Wordpress (all + Route-53).md",
-    "AWS Cloud Practitioner/Laboratórios/3. Webserver Wordpress (all + AutoScalling).md",
-    "AWS Cloud Practitioner/Laboratórios/2. Webserver Wordpress  (all +RDS).md",
     "AWS Certified Devops Engineer",
     "Youtube",
     "Sem título 1.canvas"

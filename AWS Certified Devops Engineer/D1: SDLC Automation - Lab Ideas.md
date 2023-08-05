@@ -16,20 +16,20 @@
 - [x] Aprovar o pull request
 - [x] Merge do pull request
 - [x] Deletar a branch
-- [ ] Desfazer a última branch
-- [ ] Deletar o repositório
+- [x] Desfazer o último merge
+- [x] Deletar o repositório
 
 ## Code Pipeline
 #### Pipeline simples com 2 ambientes e aprovaçõa manual
-- [ ] Criar dois ambientes básicos no Beanstalk (Sample + Simple Instance)
-  - [ ] Dev
-  - [ ] Prod
-- [ ] Criar um pipeline
-  - [ ] Source is the previuously created CodeCommit repository
-  - [ ] No build
-  - [ ] Deploy to Beanstalk (Dev)
-  - [ ] Add manual approval
-  - [ ] Deploy to Beanstalk (Prod)
+- [x] Criar dois ambientes básicos no Beanstalk (Sample + Simple Instance)
+  - [x] Dev
+  - [x] Prod
+- [x] Criar um pipeline
+  - [x] Source is the previuously created CodeCommit repository
+  - [x] No build
+  - [x] Deploy to Beanstalk (Dev)
+  - [x] Add manual approval
+  - [x] Deploy to Beanstalk (Prod)
 
 ### Extras [Code Pipeline]
 #### Pipeline avançado com Cloudformation e Testes em infra intermediária
@@ -231,19 +231,19 @@
 
 ---
 #### Pipeline interna /VPC com teste de ping 
-- [ ] Criar uma EC2
-  - [ ] Ubuntu 20.04
-  - [ ] SG: *
-- [ ] Criar um CodeBuild Project
-  - [ ] Name: TestForPing
-  - [ ] Source: CodeCommit/main/latest
-  - [ ] Environment: Managed Image/Ubuntu/Latest
+- [x] Criar uma EC2
+  - [x] Ubuntu 20.04
+  - [x] SG: *
+- [x] Criar um CodeBuild Project
+  - [x] Name: TestForPing
+  - [x] Source: CodeCommit/main/latest
+  - [x] Environment: Managed Image/Ubuntu/Latest
   - [ ] Select Default VPC
   - [ ] New Service Role
   - [ ] Buildspec: Use a buildspec file
   - [ ] Buildspec Name: buildspec_ping.yml
   - [ ] Variable: ec2_ip = IP Interno da EC2 criada
-- [ ] Criar um arquivo buildspec_ping.yml
+- [x] Criar um arquivo buildspec_ping.yml
   ```
   version: 0.2
   phases: 
