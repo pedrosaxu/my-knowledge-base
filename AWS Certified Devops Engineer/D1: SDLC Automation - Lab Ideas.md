@@ -1,21 +1,21 @@
 # SDLC Automation
 ## Code Commit
 #### Repositório e atividades rotineiras de um repositório
-- [ ] Criar um repositório no CodeCommit
-- [ ] Clonar o repositório
-- [ ] Criar um arquivo
-- [ ] Adicionar os arquivos do curso
-- [ ] Commitar o arquivo
-- [ ] Pushar o arquivo
-- [ ] Criar uma branch
-- [ ] Criar um arquivo na branch
-- [ ] Adicionar o arquivo
-- [ ] Commitar o arquivo
-- [ ] Pushar o arquivo
-- [ ] Criar um pull request
-- [ ] Aprovar o pull request
-- [ ] Merge do pull request
-- [ ] Deletar a branch
+- [x] Criar um repositório no CodeCommit
+- [x] Clonar o repositório
+- [x] Criar um arquivo
+- [x] Adicionar os arquivos do curso
+- [x] Commitar o arquivo
+- [x] Pushar o arquivo
+- [x] Criar uma branch
+- [x] Criar um arquivo na branch
+- [x] Adicionar o arquivo
+- [x] Commitar o arquivo
+- [x] Pushar o arquivo
+- [x] Criar um pull request
+- [x] Aprovar o pull request
+- [x] Merge do pull request
+- [x] Deletar a branch
 - [ ] Desfazer a última branch
 - [ ] Deletar o repositório
 

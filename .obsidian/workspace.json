@@ -11,8 +11,12 @@
             "id": "6ffa110d2fc18d85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tech how-tos/AWS/3. Validar log do script do User Data.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sql",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tech how-tos/AWS/3. Validar log do script do User Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tech how-tos/AWS/3. Validar log do script do User Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tech how-tos/AWS/3. Validar log do script do User Data.md"
+              }
             }
           }
         ]
@@ -138,25 +146,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "20d8987a5b1f3336",
+  "active": "6ffa110d2fc18d85",
   "lastOpenFiles": [
-    "git status.md",
+    "Tech how-tos/AWS/2. Validar log do CodeDeploy dentro da máquina.md",
+    "Tech how-tos/AWS/3. Validar log do script do User Data.md",
+    "Tech how-tos/AWS/1. Como instalar o agente do CodeDeploy em EC2.md",
+    "Tech how-tos/Wordpress/1. Como configurar Wordpress com Apache no Ubuntu.md",
+    "Tech how-tos/Azure Devops/10. Ver log do agente do Azure Devops.md",
+    "Tech how-tos/Azure Devops/5. Instalar self-hosted agent nas máquinas que serão agentes.md",
+    "Tech how-tos/Azure Devops/3. Instalar agentes de deploy nas máquinas do cliente com PAT.md",
+    "Tech how-tos/Azure Devops/4. Como desinstalar agente do Azure Devops.md",
+    "Tech how-tos/Azure Devops/6. Diferença entre Build Pipeline e Release Pipeline.md",
+    "Tech how-tos/Azure Devops/2. Melhores práticas para instalar Agentes de Azure Devops.md",
+    "Tech how-tos/Azure Devops/9. Como desinstalar self-hosted agend nas máquinas.md",
+    "Tech how-tos/Azure Devops/8. Como colorir AZDevops output.md",
+    "Tech how-tos/Azure Devops/7. Range de IP's dos Agentes Devops da Microsoft - Brasil.md",
+    "AWS Certified Devops Engineer/D1: SDLC Automation - Lab Ideas.md",
     "2023-07-29.md",
+    "Tech how-tos/Database/2. Realizar restore de banco SQL.md",
+    "Tech how-tos/Database/1. Testar conexão com banco MySQL.md",
+    "git status.md",
     "Sem título.canvas",
     "AWS Certified Devops Engineer/Laboratórios.md",
     "Tech how-tos/Database/2. Como fazer restore do Banco de Dados MySQL.md",
     "Tech how-tos/Database/1. Testar conexão om banco MySQL.md",
-    "Tech how-tos/Wordpress/1. Como configurar Wordpress com Apache no Ubuntu.md",
     "Tech how-tos/Linux/8. Habilitar SSL no Apache.md",
     "Youtube/Test file.md",
     "AWS Cloud Practitioner/Laboratórios/4. Webserver Wordpress (all + Route-53).md",
     "AWS Cloud Practitioner/Laboratórios/3. Webserver Wordpress (all + AutoScalling).md",
     "AWS Cloud Practitioner/Laboratórios/2. Webserver Wordpress  (all +RDS).md",
-    "Youtube/[TF Up and Running].md",
     "AWS Certified Devops Engineer",
-    "Youtube/Ideias de Vídeos.md",
     "Youtube",
-    "Sem título 1.canvas",
-    "AWS Cloud Practitioner/Laboratórios/1. Webserver Apache simples (EC2 + SG + ALB).md"
+    "Sem título 1.canvas"
   ]
 }
